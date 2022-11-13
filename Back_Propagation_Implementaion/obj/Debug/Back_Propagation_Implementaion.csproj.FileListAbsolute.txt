@@ -1,0 +1,9 @@
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Back_Propagation_Implementaion\bin\Debug\Back_Propagation_Implementaion.exe.config
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Back_Propagation_Implementaion\bin\Debug\Back_Propagation_Implementaion.exe
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Back_Propagation_Implementaion\bin\Debug\Back_Propagation_Implementaion.pdb
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Back_Propagation_Implementaion\obj\Debug\Back_Propagation_Implementaion.csprojAssemblyReference.cache
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Back_Propagation_Implementaion\obj\Debug\Back_Propagation_Implementaion.Properties.Resources.resources
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Back_Propagation_Implementaion\obj\Debug\Back_Propagation_Implementaion.csproj.GenerateResource.cache
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Back_Propagation_Implementaion\obj\Debug\Back_Propagation_Implementaion.exe
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Back_Propagation_Implementaion\obj\Debug\Back_Propagation_Implementaion.pdb
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Back_Propagation_Implementaion\obj\Debug\Back_Propagation_Implementaion.BackPropagation.resources
