@@ -1,0 +1,18 @@
+C:\Users\AL-Khalil\source\repos\Impelement_AndORNot_ANN\bin\Debug\Impelement_AndORNot_ANN.exe.config
+C:\Users\AL-Khalil\source\repos\Impelement_AndORNot_ANN\bin\Debug\Impelement_AndORNot_ANN.exe
+C:\Users\AL-Khalil\source\repos\Impelement_AndORNot_ANN\bin\Debug\Impelement_AndORNot_ANN.pdb
+C:\Users\AL-Khalil\source\repos\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.csprojAssemblyReference.cache
+C:\Users\AL-Khalil\source\repos\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.Form1.resources
+C:\Users\AL-Khalil\source\repos\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.Properties.Resources.resources
+C:\Users\AL-Khalil\source\repos\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.csproj.GenerateResource.cache
+C:\Users\AL-Khalil\source\repos\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.exe
+C:\Users\AL-Khalil\source\repos\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.pdb
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Impelement_AndORNot_ANN\bin\Debug\Impelement_AndORNot_ANN.exe.config
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Impelement_AndORNot_ANN\bin\Debug\Impelement_AndORNot_ANN.exe
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Impelement_AndORNot_ANN\bin\Debug\Impelement_AndORNot_ANN.pdb
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.csprojAssemblyReference.cache
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.Form1.resources
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.Properties.Resources.resources
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.csproj.GenerateResource.cache
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.exe
+E:\My Projects\College Projects\Visual Studio Projects\C# Console\الهكري\Impelement_AndORNot_ANN\obj\Debug\Impelement_AndORNot_ANN.pdb
